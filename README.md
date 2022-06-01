@@ -1,6 +1,8 @@
 # Bikesharing 
 
-## The purpose of this analysis is to solidify that having a bike-sharing program in 
+## Overview
+
+The purpose of this analysis is to solidify that having a bike-sharing program in 
 Des Moines is a good idea so investors will be interested. Through this analysis, we were
 able to show the length of time that bikes are checked out for both riders and genders.
 This was broken down even further to show riders and genders per hour per day of the week.
