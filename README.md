@@ -9,7 +9,7 @@ This was broken down even further to show riders and genders per hour per day of
 
 ## Results
 
-[link to dashboard] (https://public.tableau.com/views/BikesharingChallenge_16540571297600/TripsbyWeekday-EachHour?:language=en-US&:display_count=n&:origin=viz_share_link)
+[link to dashboard] (https://public.tableau.com/views/BikesharingChallenge_16540571297600/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 In the Checkout Times for Users graph, we can see that the busiest time to check out a
 bike is around midnight and most people who check out a bike only have it for about
